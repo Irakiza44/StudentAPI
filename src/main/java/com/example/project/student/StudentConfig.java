@@ -27,6 +27,6 @@ public class StudentConfig {
             );
 
             repository.saveAll(List.of(irakiza, ineza));
-        };
+        }; 
     }
 }
